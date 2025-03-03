@@ -182,8 +182,11 @@ footer a {
 
 @media screen and (min-width: 576px){
 
-ul li {
-    display: inline;
+   
+
+header ul li {
+    display: inline-block;
+    
     
   
 }
@@ -201,7 +204,6 @@ ul li {
     list-style-type: disc;
 }
 
-body {
-    max-width: 576px;
-}
+
+
 }
