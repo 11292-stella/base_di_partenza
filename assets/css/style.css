@@ -231,6 +231,11 @@ section h2 {
         margin: -66px;
         margin-right: 10px;
      }
+
+     table {
+        margin: 0 auto;
+        width: 700px;
+     }
 }
 
     
