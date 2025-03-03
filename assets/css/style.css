@@ -216,22 +216,21 @@ section h2 {
 }
 
 @media screen and (min-width: 1200px){
-    .top{
-        display: inline-block;
-        
-        width: 47%;
-        margin-right: 2%;
-    }
-
-   header ul {
-    text-align: right;
-   
-    
-   }
-    }
     header{
-        height: 20vh;
+        text-align: left;
+        height: 13vh;
+        padding: 0;
     }
+     .titolo{
+        display: inline-block;
+     }
+
+     header nav ul {
+        text-align: right;
+        padding: 0;
+        margin: -66px;
+        margin-right: 10px;
+     }
 
      table {
         margin: 0 auto;
